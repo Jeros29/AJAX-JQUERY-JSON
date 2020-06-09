@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Warrior",
+        "health": "100",
+        "damage": "35",
+        "skills": ["Tenacity", "Last Stand", "Iron Will"],
+        "gold": "275"
+    },
+
+    {
+        "name": "Archer",
+        "health": "80",
+        "damage": "45",
+        "skills": ["Precision", "Deadly Aim", "Evasion"],
+        "gold": "310"
+    },
+
+    {
+        "name": "Wizard",
+        "health": "70",
+        "damage": "60",
+        "skills": ["Fireball", "Penetration", "Teleport"],
+        "gold": "325"
+    }
+]
